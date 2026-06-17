@@ -33,6 +33,7 @@ A living log of my current learning goals, ongoing builds, and completed project
 | **Full-Stack (MERN)** | Sahayog Crowdfunding Platform| ✅ [View Repository](#) |
 | **Machine Learning** | Chronic Disease Predictive Model (97% Accuracy) | ✅ [View Repository](#) |
 | **Salesforce** | Lead Management & Automation System | ✅ [View Repository](#) |
+| **GenAI** | Cohere AI Text Summarizer (Python, Streamlit) | ✅ [View Repository](https://github.com/ProHacksAbhi/cohereAI-text-summarizer) |
 | **GenAI** | Multimodal Chatbot with Gemma API | ✅ [Live Demo](#) |
 | **SRE / Cloud** | Dockerize Web App & Deploy to Kubernetes | ⏳ In Progress |
 | **Database / SQL** | Advanced Query Optimization Exercises | ⬜ To Do |
