@@ -29,7 +29,7 @@ A living log of my current learning goals, ongoing builds, and completed project
 
 | Domain | Project / Goal Name | Status / Link |
 | :--- | :--- | :--- |
-| **Full-Stack (MERN)** | ShopEZ E-commerce Platform | ✅ [View Repository](#) |
+| **Full-Stack (MERN)** | ShopEZ E-commerce Platform | ✅ [View Repository](https://github.com/ProHacksAbhi/ShopEZ-Fullstack-Project) |
 | **Full-Stack (MERN)** | Sahayog Crowdfunding Platform| ✅ [View Repository](#) |
 | **Machine Learning** | Chronic Disease Predictive Model (97% Accuracy) | ✅ [View Repository](#) |
 | **Salesforce** | Lead Management & Automation System | ✅ [View Repository](#) |
