@@ -23,14 +23,14 @@ Welcome to my digital portfolio and daily development log. I am a software engin
 
 ---
 
-### 🚀 Daily Tracker & Project Log
+### 🎯Daily Tracker & Project Log
 
 A living log of my current learning goals, ongoing builds, and completed projects. 
 
 | Domain | Project / Goal Name | Status / Link |
 | :--- | :--- | :--- |
 | **Full-Stack (MERN)** | ShopEZ E-commerce Platform | ✅ [View Repository](#) |
-| **Full-Stack (MERN)** | Sahayog Crowdfunding Platform | ✅ [View Repository](#) |
+| **Full-Stack (MERN)** | Sahayog Crowdfunding Platform| ✅ [View Repository](#) |
 | **Machine Learning** | Chronic Disease Predictive Model (97% Accuracy) | ✅ [View Repository](#) |
 | **Salesforce** | Lead Management & Automation System | ✅ [View Repository](#) |
 | **GenAI** | Multimodal Chatbot with Gemma API | ✅ [Live Demo](#) |
